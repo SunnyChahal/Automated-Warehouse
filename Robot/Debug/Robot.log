@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Robot.vcxproj, Web_server.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  remote_server.cpp
+  Robot.vcxproj -> C:\Fourth year\CPEN 333\Final Project\Trial 7\Amazoom (Anushka Trial)\bin\remote_server.exe
+  Robot.vcxproj -> C:\Fourth year\CPEN 333\Final Project\Trial 7\Amazoom (Anushka Trial)\bin\remote_server.pdb (Partial PDB)
